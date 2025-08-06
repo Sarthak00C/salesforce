@@ -1,4 +1,4 @@
 # Salesforce
-First java script project
+First HTML & CSS Project
 <br>
-lcmxcmxz
+By Sarthak
